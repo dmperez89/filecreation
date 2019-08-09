@@ -1,3 +1,7 @@
+## this code does not work
+# delete from repository soon
+
+
 #Set working directory
 setwd("C:/Users/OALab/Documents/Juvenile photos/practice")
 
